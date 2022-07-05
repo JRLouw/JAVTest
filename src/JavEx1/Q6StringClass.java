@@ -1,6 +1,6 @@
 package JavEx1;
 
-public class Q7StringClass {
+public class Q6StringClass {
 
     public static void main(String []args ) {
 
